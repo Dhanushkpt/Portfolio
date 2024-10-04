@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "./components/Home";
+import Home from "./components/Home"; 
 import About from "./components/About";
 import PortFolio from "./Components/PortFolio";
 import Experiance from "./components/Experiance";
